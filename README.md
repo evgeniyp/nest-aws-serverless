@@ -8,7 +8,7 @@
 
 ## Publishing the app (production)
 
-  yarn deploy:prod
+    yarn deploy:prod
 
 ## Test
 
